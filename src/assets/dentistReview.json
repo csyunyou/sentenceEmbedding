@@ -1,0 +1,137 @@
+{
+  "schema":
+  {
+    "fields": [
+    {
+      "name": "index",
+      "type": "integer"
+    },
+    {
+      "name": "content",
+      "type": "string"
+    },
+    {
+      "name": "tag",
+      "type": "integer"
+    },
+    {
+      "name": "cluster",
+      "type": "integer"
+    },
+    {
+      "name": "x",
+      "type": "number"
+    },
+    {
+      "name": "y",
+      "type": "number"
+    }],
+    "primaryKey": ["index"],
+    "pandas_version": "0.20.0"
+  },
+  "data": [
+  {
+    "index": 0,
+    "content": "Just go somewhere else for your tooth needs.",
+    "tag": 0,
+    "cluster": 1,
+    "x": -180.7451357659,
+    "y": 5.3843889871
+  },
+  {
+    "index": 1,
+    "content": "He had to split this tooth in half and it broke off like the last tooth but this time I didn't feel any pain at all",
+    "tag": 0,
+    "cluster": 1,
+    "x": 367.7170968447,
+    "y": -133.5661815462
+  },
+  {
+    "index": 2,
+    "content": "I had chipped my front tooth, the students took great care of me, and my tooth is as good as new!!",
+    "tag": 0,
+    "cluster": 1,
+    "x": -425.6587765897,
+    "y": 90.9175712145
+  },
+  {
+    "index": 3,
+    "content": "They numbed the area around the tooth with local anesthesia and took well over an hour hacking at and pulling the pieces of tooth.",
+    "tag": 0,
+    "cluster": 1,
+    "x": -248.8348832608,
+    "y": 128.6239389643
+  },
+  {
+    "index": 4,
+    "content": "I went in for a broken tooth that was hurting, which they told me needed extracted (turns out they were wrong, but that's another story).",
+    "tag": 0,
+    "cluster": 1,
+    "x": -50.6831475374,
+    "y": -128.145808984
+  },
+  {
+    "index": 5,
+    "content": "Now i have to get the remaining tooth pulled and need an implant that i have no way of affording.",
+    "tag": 0,
+    "cluster": 0,
+    "x": 75.2942887301,
+    "y": 26.2327534568
+  },
+  {
+    "index": 6,
+    "content": "You won't save that much money going here - in fact, I think it's a bit of a rip-off.",
+    "tag": 1,
+    "cluster": 0,
+    "x": -49.1292163456,
+    "y": 13.413370047
+  },
+  {
+    "index": 7,
+    "content": "I do not have the money or the patience to drag myself over there.",
+    "tag": 1,
+    "cluster": 0,
+    "x": -52.9841045411,
+    "y": 162.6002794918
+  },
+  {
+    "index": 8,
+    "content": "I pay out of pocket for NYU Dental and so far, it's been money well spent.",
+    "tag": 1,
+    "cluster": 0,
+    "x": -185.0677168015,
+    "y": -167.3493439599
+  },
+  {
+    "index": 9,
+    "content": "The staff was courteous and compassionate.",
+    "tag": 2,
+    "cluster": 2,
+    "x": 125.5831332224,
+    "y": 158.9183352233
+  },
+  {
+    "index": 10,
+    "content": "The staff figured out the error and sorted things out.",
+    "tag": 2,
+    "cluster": 2,
+    "x": 185.7969672551,
+    "y": -50.0712052687
+  },
+  {
+    "index": 11,
+    "content": "Apart of a few bad apples, all the staff and the faculty is very friendly.",
+    "tag": 2,
+    "cluster": 1,
+    "x": 299.7664789618,
+    "y": 35.3852484997
+  },
+  {
+    "index": 12,
+    "content": "I only give it 2 stars because the staff was friendly.",
+    "tag": 2,
+    "cluster": 0,
+    "x": 84.0390173989,
+    "y": -152.3318325945
+  }]
+}

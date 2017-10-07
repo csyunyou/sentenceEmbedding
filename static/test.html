@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <style>
+  .container {
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    position: fixed;
+    top: 30px;
+    left: 30px;
+  }
+
+  div:nth-child(3) {
+    border: 1px solid blue;
+    height: 300px;
+    width: 300px;
+  }
+
+  div:nth-of-type(3) {
+    border: 1px solid blue;
+    height: 300px;
+    width: 300px;
+  }
+
+  </style>
+</head>
+
+<body>
+  <div class='container'></div>
+  <div class='another'></div>
+  <p>destroy</p>
+  <div class='another'></div>
+</body>
+
+</html>
